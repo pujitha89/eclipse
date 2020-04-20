@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15703" started-at="2020-04-20T12:15:23 BST" finished-at="2020-04-20T12:15:38 BST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15703" started-at="2020-04-20T12:15:23 BST" finished-at="2020-04-20T12:15:38 BST">
+      <class name="address_book.Test_book">
+        <test-method status="PASS" signature="launch()[pri:0, instance:address_book.Test_book@6e0e048a]" name="launch" is-config="true" duration-ms="8420" started-at="2020-04-20T12:15:23 BST" finished-at="2020-04-20T12:15:31 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verify_book()[pri:0, instance:address_book.Test_book@6e0e048a]" name="verify_book" duration-ms="2817" started-at="2020-04-20T12:15:31 BST" finished-at="2020-04-20T12:15:34 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_book -->
+        <test-method status="PASS" signature="close()[pri:0, instance:address_book.Test_book@6e0e048a]" name="close" is-config="true" duration-ms="4406" started-at="2020-04-20T12:15:34 BST" finished-at="2020-04-20T12:15:38 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- address_book.Test_book -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
