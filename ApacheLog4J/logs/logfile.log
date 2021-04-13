@@ -1,0 +1,5 @@
+19:07:43.903 [main] DEBUG Alpha.Test1 - hi hello
+19:07:43.907 [main] ERROR Alpha.Test1 - this is error
+19:08:00.064 [main] INFO  Alpha.Testcase1 - navigate to url
+19:08:02.569 [main] DEBUG Alpha.Testcase1 - click on the signin button
+19:08:02.915 [main] INFO  Alpha.Testcase1 - close the browser
